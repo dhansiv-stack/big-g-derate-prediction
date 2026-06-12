@@ -1,6 +1,6 @@
 # Big G Derate Prediction
 
-## Team Project
+Collaborative machine learning project predicting vehicle derate events using diagnostic and fault data for predictive maintenance.
 
 This project was completed as part of the Nashville Software School Data Science Apprenticeship.
 
